@@ -56,3 +56,4 @@ public class SpecialClient extends Actor  {
     //     this.idVIP = idVIP;
     // }
 }
+//

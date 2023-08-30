@@ -40,3 +40,4 @@ public class OrdinaryClient extends Actor {
        super.name = name;        
     }
 }
+//
